@@ -3,6 +3,7 @@ package com.bie24.xct.model;
 import java.util.Date;
 
 public class Job {
+	
 	private int id;
 	private String name;
 	private int numPers;
